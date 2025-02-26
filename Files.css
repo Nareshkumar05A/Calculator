@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    min-width: 100vm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(229, 222, 250);
+    
+}
+.in{
+    padding: 20px;
+    
+}
+.container{
+    padding: 10px;
+    border-top: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.but{
+    padding: 20px;
+    border-bottom: 5px;
+}
+input{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.inp{
+    /* padding: 20px; */
+    height: 150px;
+}
+.button{
+    padding: 5px;
+    width: 80px;
+}

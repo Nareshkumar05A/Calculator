@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-width: 100vm;
+    min-height: 100vh;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.nav{
+    background-color: rgb(138, 218, 158);
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+}git branch
+
+tr td{
+    border: 1px solid blue;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1{
+    margin-bottom: 100px;
+    padding: 10px;
+}
+section{
+    background-color: rgb(126, 219, 215);
+    border-radius: 20px;
+    padding: 20px;
+}
