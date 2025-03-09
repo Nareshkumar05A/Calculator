@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: antiquewhite;
+    padding: 25px;
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.res{
+    padding: 75px;
+}
+input{
+    padding: 15px;
+    width: 125px;
+}
+.cal{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    border: 2px solid black;
+}
+
+.button{
+    padding: 20px;
+    
+}
